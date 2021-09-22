@@ -13,3 +13,4 @@
 - use dim to create variables
 - you can pass byval and byref in vb (this language gets grosser and grosser)
 - Me in place of this
+- note that by explicitly implementing stuff, you can rename your methods, i.e the method name doesn't have to follow the interface nomencleture

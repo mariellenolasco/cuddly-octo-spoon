@@ -5,6 +5,9 @@ Public Class Restaurant
         Me.city = city
         Me.state = state    
     End Sub
+    Public Sub New()
+        
+    End Sub
     
     Property Name As string
     Property State As string
@@ -13,6 +16,4 @@ Public Class Restaurant
     Public Overrides Function ToString() As string
         return $"{Name} {City},{State}"
     End Function
-    
-    
 End Class
