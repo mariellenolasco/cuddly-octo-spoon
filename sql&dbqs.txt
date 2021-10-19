@@ -1,0 +1,38 @@
+::ODBC::
+What does ODBC stand for?
+{
+    = open database connectivity
+    ~ open up the gates
+    ~ open datable connection
+    ~ open mic night
+}
+
+::Database Connection Variable::
+What is false about the database connection variable?
+{
+    ~ It is unique for each database you connect to
+    ~ Once obtained, it can be subsequently used throughout your automation project for connecting to the said database.
+    = It's your connection string 
+}
+
+:: DB Activities ::
+What is not a UiPath DB Activity?
+{
+    ~ Execute Query
+    ~ Insert
+    ~ Transaction
+    = Create
+}
+
+:: UiPath DB Activities ::
+How can you insert data to a table in UiPath?
+{
+    ~%50% Insert Activity
+    ~%50% Execute Non Query Activity
+    ~ Execute Query Activity
+    ~ Add data row activity
+}
+
+:: Connection String ::
+A connection string contains all the necessary info you need to connect to your DB
+{T}
